@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🚀 Backend Developer | 🛠️ Passionate about building scalable APIs and crafting efficient database models<br><br>💻 I specialize in :<br><br>Python Frameworks: Django, Flask<br>Database Design: SQLAlchemy, PostgreSQL<br>API Development: Django REST Framework (DRF), Flask-SQLAlchemy<br>Frontend Development: JavaScript, React, HTML, Bootstrap, Material UI<br><br>✨ What drives me?<br>I love solving real-world problems through code, with a focus on clean architecture and seamless integrations.<br><br>📚 Recent Projects:<br><br>SchoolHub: A web platform for educational management, empowering teachers, students, and administrators.<br>(Add other projects you want to highlight!)<br>🔎 Fun Facts:<br><br>I thrive in collaborative environments and enjoy team problem-solving.<br>Attention to detail and determination are my secret weapons.</p>
+<p align="left">🚀 Backend Developer | 🛠️ Passionate about building scalable APIs and crafting efficient database models<br><br>💻 I specialize in :<br><br>Python Frameworks: Django, Flask<br>Database Design: SQLAlchemy, PostgreSQL<br>API Development: Django REST Framework (DRF), Flask-SQLAlchemy<br>Frontend Development: JavaScript, React, HTML, Bootstrap, Material UI<br><br>✨ What drives me?<br>I love solving real-world problems through code, with a focus on clean architecture and seamless integrations.<br><br>📚 Recent Projects:<br><br>SchoolHub: A web platform for educational management, empowering teachers, students, and administrators.<br>🔎 Fun Facts:<br><br>I thrive in collaborative environments and enjoy team problem-solving.<br>Attention to detail and determination are my secret weapons.</p>
 
 ###
 
