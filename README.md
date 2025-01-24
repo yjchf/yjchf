@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌟 Full Stack Developer | Backend-Focused 🚀<br>👨‍💻 Passionate about building scalable APIs and designing robust database models to solve real-world problems.<br><br>🛠️ Tech Stack Expertise:<be> <h2>Backend Development:<br></h2><be> <b> Python Frameworks: </b> Django, Flask<br>Database Design: SQLAlchemy, PostgreSQL<br>API Development: Django REST Framework (DRF), Flask-SQLAlchemy<br><br>Frontend Development:<br><br>JavaScript, React, HTML, CSS<br>Frameworks & Libraries: Bootstrap, Material UI, Axios, Tailwind CSS (currently honing my skills!)<br><br>✨ What Drives Me?<br>I thrive on creating solutions with clean architecture and seamless integrations. While I’m proficient in both frontend and backend development, my true passion lies in crafting scalable and efficient backend systems.<br><br>📚 Recent Projects:<br>SchoolHub:<br>A comprehensive web platform for educational management, designed to empower teachers, students, and administrators through seamless collaboration and intuitive tools.<br><br><br>🔎 Fun Facts About Me:<br>Collaborative problem-solving is my jam—I enjoy working in teams to tackle challenges creatively.<br>My attention to detail and determination are key to ensuring the quality and reliability of my work.</p>
+<p align="left">🌟 Full Stack Developer | Backend-Focused 🚀<br>👨‍💻 Passionate about building scalable APIs and designing robust database models to solve real-world problems.<br><br> <h2>🛠️ Tech Stack Expertise:</h2><h3>Backend Development:</h3> <b> Python Frameworks: </b> Django, Flask<be> <b> <br> Database Design: </b> SQLAlchemy, PostgreSQL<be> <br> <b> API Development: </b> Django REST Framework (DRF), Flask-SQLAlchemy<br><br> <h3>Frontend Development: </h3>JavaScript, React, HTML, CSS<br>Frameworks & Libraries: Bootstrap, Material UI, Axios, Tailwind CSS (currently honing my skills!)<br><be> <h2>✨ What Drives Me? </h2>I thrive on creating solutions with clean architecture and seamless integrations. While I’m proficient in both frontend and backend development, my true passion lies in crafting scalable and efficient backend systems.<br><be> <h2>📚 Recent Projects:</h2>SchoolHub:<br>A comprehensive web platform for educational management, designed to empower teachers, students, and administrators through seamless collaboration and intuitive tools.<br><br><be> <h2>🔎 Fun Facts About Me:</h2>Collaborative problem-solving is my jam—I enjoy working in teams to tackle challenges creatively.<br>My attention to detail and determination are key to ensuring the quality and reliability of my work.</p>
 
 ###
 
@@ -16,29 +16,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="Django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="sqlalchemy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-</div>
 
-###
 
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnkydTFta3FxNGljdXJncHBteXdvNWQ3aW5pMzR4cHRlcXo3dXFlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NYnvbOCBu85Xy/giphy.webp"  />
 
